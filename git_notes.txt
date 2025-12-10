@@ -1,0 +1,76 @@
+24SDCS02- FULL STACK APPLICATION DEVELOPEMENT 
+
+FULLSTACK APPLICATION: 
+
+A – REQUIREMENT ANALYSIS 
+
+D- REQUIREMENT DESIGN 
+
+C- CODING & IMPLEMENTATION 
+
+T- TESTING & (V &V) VERIFICATION AND VALIDATION 
+
+M - MAINTAINANCE (A, C,P) ADAPTIVE, CORRECTIVE, PREVENTIVE DELIVERY 
+
+GIT-GLOBAL INFORMATION TRACKER  
+
+Why do we need GIT? 
+
+Git is a project source code management software which keeps track of code modifications or changes like insertion moving to specific branch, merging, commit, stage, push, pull, and deletions in up-to-date manner. 
+
+Git, GitHub and Gitlab- totally 3 available as of now 
+
+GIT - SCM, Source Code Management software is installed in collaboration among different branches of developers in a team.  
+
+Popular or most used GIT commands: 
+
+git init – to initialize a git repository 
+
+/*for first time develop have to setup username and email*/ 
+
+git config --global user.name “lullucoder” 
+
+git config –global.email “prashantcoc678@gmail.com” 
+
+git add . to add all file sin that folder 
+
+git commit –m “first commit” to stage the changes locally 
+
+git branch –M main to create branch main 
+
+git remote add origin  https://github.com/lullucoder/mindcure.git 
+
+git push –u origin main  
+
+git checkout 
+
+git log – it will track thee project history along with Author commit messages and time 
+
+ 
+
+ 
+
+PREREQUIREMNTS:  
+
+1. VS CODE 
+
+2. GIT SCM 
+
+3. Gihtub account 
+
+4. Nodejs 
+
+5. Java jdk 17 or java 21 jre 
+
+6. Eclipse ide- java for ee and web developers/INTELIJ ide 
+
+7. Spring boot/ spring tools suite 4 
+
+8. MySQL 
+
+ 
+
+ 
+
+ 
+
