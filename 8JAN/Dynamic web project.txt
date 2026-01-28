@@ -1,0 +1,8 @@
+Steps:
+-Click dynamic web page
+-jdbcdemo
+src/main/java
+-Generate web.xml descriptor
+
+src/main/java -> package ->com.model
+Pojo class-> database table -> Student
